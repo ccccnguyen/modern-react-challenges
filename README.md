@@ -1,61 +1,62 @@
 # Modern-React-Challenges
+
 React Challenges For Modern React
 
 ## Challenges:
 
-### Each challenges will include:
+### Challenges will include:
 
 React.createElement\
-JSX__ 
-Advanced JSX__
-ReactDOM__
-React Elements__
-React Components__
-Functional Components__
-Props__
-State__
-Hooks__
-Destructuring__
-UI Kit__
-DOM Events__
-Pure functions__
-Closures__
-Events__
-JSX Advanced__
-Advanced Array destructuring__
-Conditional state changes__
-Conditional rendering__
-Immutability__
-Array immutability__
-State with Arrays__
-Object immutability__
-State with Objects__
-Accessibility__
-Lazy loading__
-React Dev Tools__
-Forms__
-Class Components__
-Functional state updates__
-Effect hook__
-Component lifecycle__
-Mapbox integration__
-Effect & State__
-Effect, State & Events__
-Advanced State__
-Advanced Mapbox integration__
-Effect performance__
-Storing to localStorage__
-Using APIs & fetch__
-Advanced Hooks__
-Write your own hooks__
-useFetch hook__
-Context Provider__
-Stripe integration__
-React Router__
-Create React App__
-Deploying React apps__
-Folder structure__
-Custom Events__
-Lifting state up__
-Virtual DOM__
-Preact__
+JSX\
+Advanced JSX\
+ReactDOM\
+React Elements\
+React Components\
+Functional Components\
+Props\
+State\
+Hooks\
+Destructuring\
+UI Kit\
+DOM Events\
+Pure functions\
+Closures\
+Events\
+JSX Advanced\
+Advanced Array destructuring\
+Conditional state changes\
+Conditional rendering\
+Immutability\
+Array immutability\
+State with Arrays\
+Object immutability\
+State with Objects\
+Accessibility\
+Lazy loading\
+React Dev Tools\
+Forms\
+Class Components\
+Functional state updates\
+Effect hook\
+Component lifecycle\
+Mapbox integration\
+Effect & State\
+Effect, State & Events\
+Advanced State\
+Advanced Mapbox integration\
+Effect performance\
+Storing to localStorage\
+Using APIs & fetch\
+Advanced Hooks\
+Write your own hooks\
+useFetch hook\
+Context Provider\
+Stripe integration\
+React Router\
+Create React App\
+Deploying React apps\
+Folder structure\
+Custom Events\
+Lifting state up\
+Virtual DOM\
+Preact\
