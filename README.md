@@ -5,7 +5,7 @@ React Challenges For Modern React
 
 ### Each challenges will include:
 
-React.createElement__
+React.createElement\
 JSX__ 
 Advanced JSX__
 ReactDOM__
