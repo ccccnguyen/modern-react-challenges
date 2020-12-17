@@ -1,9 +1,9 @@
 import React from "react";
 import { render } from "react-dom";
-import Link from "./Link.js";
-import Button from "./Button.js";
-import Container from "./Container.js";
-import Input from "./Input.js";
+import Link from "./Link.js.js";
+import Button from "./Button.jsx";
+import Container from "./Container.jsx";
+import Input from "./Input.jsx";
 
 function App() {
   return <></>;
